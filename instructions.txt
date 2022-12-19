@@ -1,0 +1,12 @@
+
+
+
+
+Lecture 63 - element innerHTML and form input Value
+
+JS Events Handler
+<element event='some JavaScript'>
+
+<start oneventName="some js Code"></end>
+
+DOM = Document Object Model = Browser
