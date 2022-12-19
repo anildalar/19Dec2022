@@ -2,7 +2,7 @@
 
 
 
-Lecture 63 - element innerHTML and form input Value
+Lecture 63 - element innerHTML and \
 
 JS Events Handler
 <element event='some JavaScript'>
