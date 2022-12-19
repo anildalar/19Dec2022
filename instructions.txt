@@ -10,3 +10,11 @@ JS Events Handler
 <start oneventName="some js Code"></end>
 
 DOM = Document Object Model = Browser
+
+
+
+1. object.property
+2. object.method()
+
+element1.innerHTML
+element2.value
